@@ -84,24 +84,18 @@
                 <div class="col-xs-12 col-md-7 header-text">
                     <h2>AVESSOR</h2>
                     <p>Avessor is a digital higher education platform that makes specific skill courses relevant to the modern era. Here you get a course directly by an expert person. So you can truly master the skills needed in the modern era and can compete in the world of work. </p>
-                    <a href="#" class="button white">Register</a>
+                    <a href="/register" class="button white">Register</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-5 text-right">
                     <div class="screen-box screen-slider">
                         <div class="item">
-                            <img src="images/screen-1.jpg" alt="">
+                            <img src="images/mobile3.png" alt="">
                         </div>
-                        <div class="item">
-                            <img src="images/screen-2.jpg" alt="">
+                        <div class="">
+                            <img src="images/mobile4.jpg" alt="">
                         </div>
-                        <div class="item">
-                            <img src="images/screen-3.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/screen-4.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/screen-5.jpg" alt="">
+                        <div class="">
+                            <img src="images/mobile1.jpg" alt="">
                         </div>
                     </div>
                 </div>
