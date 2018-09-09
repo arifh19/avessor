@@ -366,13 +366,17 @@ input:-webkit-autofill:focus {
 *Header-area
 **/
 
-.client-area,
+.client-area{
+    background: #000000 url('/images/client.jpg') no-repeat scroll center center / cover;
+}
 .header-area {
     background: #000000 url('/images/slide.png') no-repeat scroll center center / cover;
 }
 
-.anlge-bg {
-    background: url('images/angle-bg.png') no-repeat scroll center bottom -120px / 100% auto;
+.angle-bg {
+    background: url('/images/avessor.jpg') no-repeat scroll center center / cover;
+    position: relative;
+    color: #ffffff;
 }
 
 .overlay {

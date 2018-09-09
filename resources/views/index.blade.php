@@ -142,11 +142,11 @@
     </section>
     <!--Feature-area/-->
 
-    <section class="angle-bg sky-bg section-padding">
+    <section class="angle-bg section-padding gray-bg overlay">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <div id="caption_slide" class="carousel slide caption-slider" data-ride="carousel">
+                    <div id="caption_slide" class="carousel slide caption-slider " data-ride="carousel">
                         <div class="carousel-inner" role="listbox">
                             <div class="item active row">
                                 <div class="v-center">
@@ -161,7 +161,7 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
+                                    {{-- <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
                                             <img src="images/screen-1.jpg" alt="">
                                         </div>
@@ -170,7 +170,7 @@
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
                                             <img src="images/screen-2.jpg" alt="">
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="item row">
@@ -186,7 +186,7 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
+                                    {{-- <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
                                             <img src="images/screen-3.jpg" alt="">
                                         </div>
@@ -195,7 +195,7 @@
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
                                             <img src="images/screen-4.jpg" alt="">
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="item row">
@@ -211,7 +211,7 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
+                                    {{-- <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
                                             <img src="images/screen-7.jpg" alt="">
                                         </div>
@@ -220,7 +220,7 @@
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
                                             <img src="images/screen-2.jpg" alt="">
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                             <div class="item row">
@@ -236,7 +236,7 @@
                                             <a href="#" class="button">Read more</a>
                                         </div>
                                     </div>
-                                    <div class="col-xs-6 col-md-3">
+                                    {{-- <div class="col-xs-6 col-md-3">
                                         <div class="caption-photo one" data-animation="animated fadeInRight">
                                             <img src="images/screen-3.jpg" alt="">
                                         </div>
@@ -245,7 +245,7 @@
                                         <div class="caption-photo two" data-animation="animated fadeInRight">
                                             <img src="images/screen-4.jpg" alt="">
                                         </div>
-                                    </div>
+                                    </div> --}}
                                 </div>
                             </div>
                         </div>
@@ -374,7 +374,7 @@
                 <div class="col-xs-12 col-sm-4">
                     <div class="price-table active">
                         <span class="price-info"><span class="ti-crown"></span></span>
-                        <h3 class="text-uppercase price-title">STABDARD</h3>
+                        <h3 class="text-uppercase price-title">MIDDLE</h3>
                         <hr>
                         <ul class="list-unstyled">
                             <li><strong class="amount">$ <span class="big">39</span></strong>/Month</li>
@@ -390,7 +390,7 @@
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="price-table">
-                        <h3 class="text-uppercase price-title">UNLIMITED</h3>
+                        <h3 class="text-uppercase price-title">INTERMEDIETE</h3>
                         <hr>
                         <ul class="list-unstyled">
                             <li><strong class="amount">$ <span class="big">59</span></strong>/Month</li>
@@ -714,7 +714,7 @@
                                 <div class="side-icon">
                                     <img src="images/location-arrow.png" alt="">
                                 </div>
-                                <p><strong>Address: </strong> Box 564, Disneyland <br />USA</p>
+                                <p><strong>Address: </strong> Bulaksumur <br />Yogyakarta</p>
                             </div>
                             <div class="side-icon-box">
                                 <div class="side-icon">
@@ -753,11 +753,8 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-6 pull-right">
                         <ul class="social-menu text-right x-left">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-google"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-github"></i></a></li>
+                            <li><a href="https://www.instagram.com/avessor.id/?hl=id"><i class="ti-instagram"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/avessor"><i class="ti-linkedin"></i></a></li>
                         </ul>
                     </div>
                     <div class="col-xs-12 col-sm-6">
