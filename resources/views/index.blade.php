@@ -427,66 +427,33 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-xs-12 col-sm-6 col-md-3">
+
+                <div class="col-xs-12 col-sm-6 col-md-3 col-sm-offset-3 text-center">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-1.png" alt="">
+                            <img src="images/ceo.jpg" alt="">
                         </div>
-                        <h4>JEMY SEDONCE</h4>
-                        <h6>Co. Founder</h6>
-                        <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <div class="single-team">
-                        <div class="team-photo">
-                            <img src="images/team-section-2.png" alt="">
-                        </div>
-                        <h4>DEBORAH BROWN</h4>
-                        <h6>UX Designer</h6>
-                        <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <div class="single-team">
-                        <div class="team-photo">
-                            <img src="images/team-section-3.png" alt="">
-                        </div>
-                        <h4>HARRY BANKS</h4>
+                        <h4>Mohammad Asrofi</h4>
                         <h6>Founder</h6>
                         <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                            <li><a href="https://linkedin.com/in/asrofi"><i class="ti-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-3">
+                <div class="col-xs-12 col-sm-6 col-md-3 ">
                     <div class="single-team">
                         <div class="team-photo">
-                            <img src="images/team-section-4.png" alt="">
+                            <img src="images/developer.jpg" alt="">
                         </div>
-                        <h4>VICTORIA CLARK</h4>
-                        <h6>Creative Director</h6>
+                        <h4>Arif Hidayat</h4>
+                        <h6>Web Developer</h6>
                         <ul class="social-menu">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter"></i></a></li>
-                            <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
+                            <li><a href="https://facebook.com/arifh19"><i class="ti-facebook"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/arif-hidayat-680032131/"><i class="ti-linkedin"></i></a></li>
                         </ul>
                     </div>
                 </div>
+
             </div>
         </div>
     </section>
