@@ -9,7 +9,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Title -->
-    <title>Welcome to Avessor Education</title>
+    <title>Avessor</title>
     <!-- Place favicon.ico in the root directory -->
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
     <link rel="shortcut icon" type="image/ico" href="images/favicon.ico" />
@@ -52,7 +52,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a href="#" class="navbar-brand logo">
-                    <h2>AVESSOR</h2>
+                    <h2>Avessor</h2>
                 </a>
             </div>
             <!--Logo/-->
@@ -62,9 +62,6 @@
                     <li><a href="#service-page">Service</a></li>
                     <li><a href="#feature-page">Features</a></li>
                     <li><a href="#price-page">Pricing</a></li>
-                    <li><a href="#team-page">Team</a></li>
-                    <li><a href="#faq-page">FAQ</a></li>
-                    <li><a href="#blog-page">Blog</a></li>
                     <li><a href="#contact-page">Contact</a></li>
                     <li><a href="/login">Login</a></li>
                     <li><a href="/register">Register</a></li>
@@ -83,7 +80,7 @@
             <div class="row v-center">
                 <div class="col-xs-12 col-md-7 header-text">
                     <h2>AVESSOR</h2>
-                    <p>Avessor is a digital higher education platform that makes specific skill courses relevant to the modern era. Here you get a course directly by an expert person. So you can truly master the skills needed in the modern era and can compete in the world of work. </p>
+                    <p>You Are Awesome, develop your potential to exceed the limit. </p>
                     <a href="/register" class="button white">Register</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-5 text-right">
@@ -116,7 +113,7 @@
                             <img src="images/service-icon-1.png" alt="">
                         </div>
                         <h4>Course from expert people</h4>
-                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                        <p>With expert instructors, you will get quality learning and make you master the skills you want.</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -125,7 +122,7 @@
                             <img src="images/service-icon-2.png" alt="">
                         </div>
                         <h4>Bootcamp and test</h4>
-                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                        <p>Join a fun bootcamp, to get something new. You can masure the ability by following the test from Avessor.</p>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -134,7 +131,7 @@
                             <img src="images/service-icon-3.png" alt="">
                         </div>
                         <h4>Internship and connect to company</h4>
-                        <p>Lorem ipsum dolor sit amt, consectet adop adipisicing elit, sed do eiusmod tepo raraincididunt ugt labore.</p>
+                        <p>After getting learning and having good test results, you can start looking for new life experience.</p>
                     </div>
                 </div>
             </div>
@@ -252,10 +249,10 @@
                         <!-- Indicators -->
                         <ol class="carousel-indicators caption-indector">
                             <li data-target="#caption_slide" data-slide-to="0" class="active">
-                                <strong>Lorem ipsum </strong>consectetur adipisicing elit.
+                                <strong>What is Avessor</strong>consectetur adipisicing elit.
                             </li>
                             <li data-target="#caption_slide" data-slide-to="1">
-                                <strong>Lorem ipsum </strong>consectetur adipisicing elit.
+                                <strong>Easy to Understand</strong>consectetur adipisicing elit.
                             </li>
                             <li data-target="#caption_slide" data-slide-to="2">
                                 <strong>Lorem ipsum </strong>consectetur adipisicing elit.
@@ -407,290 +404,6 @@
             </div>
         </div>
     </section>
-
-
-
-    <section class="section-padding gray-bg" id="team-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
-                    <div class="page-title">
-                        <h2>Special team</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-
-                <div class="col-xs-12 col-sm-6 col-md-3 col-sm-offset-3 text-center">
-                    <div class="single-team">
-                        <div class="team-photo">
-                            <img src="images/ceo.jpg" alt="">
-                        </div>
-                        <h4>Mohammad Asrofi</h4>
-                        <h6>Founder</h6>
-                        <ul class="social-menu">
-                            <li><a href="https://linkedin.com/in/asrofi"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-3 ">
-                    <div class="single-team">
-                        <div class="team-photo">
-                            <img src="images/developer.jpg" alt="">
-                        </div>
-                        <h4>Arif Hidayat</h4>
-                        <h6>Web Developer</h6>
-                        <ul class="social-menu">
-                            <li><a href="https://facebook.com/arifh19"><i class="ti-facebook"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/arif-hidayat-680032131/"><i class="ti-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-
-
-
-    <section class="testimonial-area section-padding gray-bg overlay">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
-                    <div class="page-title">
-                        <h2>Client says</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                    <div class="testimonials">
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/avatar-small-1.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/avatar-small-2.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/avatar-small-3.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/avatar-small-4.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/avatar-small-5.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                        <div class="testimonial">
-                            <div class="testimonial-photo">
-                                <img src="images/avatar-small-6.png" alt="">
-                            </div>
-                            <h3>AR Rahman</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel vero dolore officiis, velit id libero illum harum hic magni, quae repellendus adipisci possimus saepe nostrum doloribus repudiandae asperiores commodi voluptate.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-
-
-
-    <section class="gray-bg section-padding" id="faq-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
-                    <div class="page-title">
-                        <h2>Frequently Asked Questions</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                    <div class="panel-group" id="accordion">
-                        <div class="panel">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse1" aria-expanded="true">Sedeiusmod tempor inccsetetur aliquatraiy?</a>
-                            </h4>
-                            <div id="collapse1" class="panel-collapse collapse in">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodas temporo incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrd exercitation ullamco laboris nisi ut aliquip ex comodo consequat. Duis aute dolor in reprehenderit.</p>
-                            </div>
-                        </div>
-                        <div class="panel">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Tempor inccsetetur aliquatraiy?</a>
-                            </h4>
-                            <div id="collapse2" class="panel-collapse collapse">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodas temporo incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrd exercitation ullamco laboris nisi ut aliquip ex comodo consequat. Duis aute dolor in reprehenderit.</p>
-                            </div>
-                        </div>
-                        <div class="panel">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Lorem ipsum dolor amet, consectetur adipisicing ?</a>
-                            </h4>
-                            <div id="collapse3" class="panel-collapse collapse">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodas temporo incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrd exercitation ullamco laboris nisi ut aliquip ex comodo consequat. Duis aute dolor in reprehenderit.</p>
-                            </div>
-                        </div>
-                        <div class="panel">
-                            <h4 class="panel-title">
-                                <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">Lorem ipsum dolor amet, consectetur adipisicing ?</a>
-                            </h4>
-                            <div id="collapse4" class="panel-collapse collapse">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmodas temporo incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrd exercitation ullamco laboris nisi ut aliquip ex comodo consequat. Duis aute dolor in reprehenderit.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-
-
-
-
-
-
-    <section class="section-padding overlay client-area overlay" id="client-page">
-        <div class="container">
-            <div class="row text-center">
-                <div class="col-xs-12">
-                    <div class="clients">
-                        <div class="item">
-                            <img src="images/themeforest.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/coadcanyon.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/graphicriver.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/docean.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/audiojungle.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/actividen.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/photodone.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/videgub.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/themeforest.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/coadcanyon.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/graphicriver.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/docean.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/audiojungle.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/actividen.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/photodone.gif" alt="">
-                        </div>
-                        <div class="item">
-                            <img src="images/videgub.gif" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="section-padding gray-bg" id="blog-page">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 col-sm-4">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/small1.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Beautiful Place for your Great Journey</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Feb 01, 2017</a></li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/small2.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Beautiful Place for your Great Journey</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Feb 01, 2017</a></li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xs-12 col-sm-4">
-                    <div class="single-blog">
-                        <div class="blog-photo">
-                            <img src="images/small3.jpg" alt="">
-                        </div>
-                        <div class="blog-content">
-                            <h3><a href="#">Beautiful Place for your Great Journey</a></h3>
-                            <ul class="blog-meta">
-                                <li><span class="ti-user"></span> <a href="#">Admin</a></li>
-                                <li><span class="ti-calendar"></span> <a href="#">Feb 01, 2017</a></li>
-                            </ul>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nemo eaque expedita aliquid dolorem repellat perferendis, facilis aut fugit, impedit.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
 
 
 
