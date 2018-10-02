@@ -71,10 +71,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="content-main">
 					<div class="w3ls-subscribe">
 						<h4>Have Account?</h4>
-						</center><form action="" method="">
+						</center><form action="#" method="post">
 							<input type="email" name="email" placeholder="Email" required="">
 							<input type="password" name="password" placeholder="Password" required="">
-                            <input type="submit" value="Login">
+                            <input type="button" value="Login">
 
 						</form>
 					</div>
