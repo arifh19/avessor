@@ -74,7 +74,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</center><form action="#" method="post">
 							<input type="email" name="email" placeholder="Email" required="">
 							<input type="password" name="password" placeholder="Password" required="">
-                            <input type="button" value="Login">
+                            <input type="submit" value="Login">
 
 						</form>
 					</div>
