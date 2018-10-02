@@ -71,7 +71,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="content-main">
 					<div class="w3ls-subscribe">
 						<h4>New Student?</h4>
-						<form action="#" method="post">
+						<form action="https://avessor.com" method="post">
 							<input type="text" name="Search" placeholder="First Name" required="">
 							<input type="text" name="Search" placeholder="Last Name" required="">
 							<input type="email" name="Search" placeholder="Email" required="">
